@@ -1,0 +1,11 @@
+D:\Storage\Coding\datingApp\datingApp\bin\Debug\netcoreapp2.0\datingApp.deps.json
+D:\Storage\Coding\datingApp\datingApp\bin\Debug\netcoreapp2.0\datingApp.runtimeconfig.json
+D:\Storage\Coding\datingApp\datingApp\bin\Debug\netcoreapp2.0\datingApp.runtimeconfig.dev.json
+D:\Storage\Coding\datingApp\datingApp\bin\Debug\netcoreapp2.0\datingApp.dll
+D:\Storage\Coding\datingApp\datingApp\bin\Debug\netcoreapp2.0\datingApp.pdb
+D:\Storage\Coding\datingApp\datingApp\obj\Debug\netcoreapp2.0\datingApp.csprojAssemblyReference.cache
+D:\Storage\Coding\datingApp\datingApp\obj\Debug\netcoreapp2.0\datingApp.csproj.CoreCompileInputs.cache
+D:\Storage\Coding\datingApp\datingApp\obj\Debug\netcoreapp2.0\datingApp.AssemblyInfoInputs.cache
+D:\Storage\Coding\datingApp\datingApp\obj\Debug\netcoreapp2.0\datingApp.AssemblyInfo.cs
+D:\Storage\Coding\datingApp\datingApp\obj\Debug\netcoreapp2.0\datingApp.dll
+D:\Storage\Coding\datingApp\datingApp\obj\Debug\netcoreapp2.0\datingApp.pdb
