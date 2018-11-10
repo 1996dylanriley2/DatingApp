@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/datingApp.API/datingApp.csproj"
+                "${workspaceFolder}/datingApp.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
